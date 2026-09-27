@@ -1,4 +1,24 @@
 # Arpita-J-Chougule_Projects
+## Technical Areas
+
+- Analog and Mixed-Signal VLSI
+- CMOS Transistor-Level Circuit Design
+- Cadence Virtuoso
+- Embedded Systems
+- ARM7 LPC2148
+- Sensor Interfacing and ADC
+- Stepper Motor Control
+- Generative AI
+- Computer Vision
+- Natural Language Processing
+- Diffusion Models
+- Python
+
+## Objective
+
+These projects reflect my interest in applying electronics, embedded
+systems, VLSI design, and emerging AI technologies to practical
+engineering problems.
 ### 1. Phase-Locked Loop (PLL) Design
 
 Designed and simulated a **16 MHz–1024 MHz Integer-N Phase-Locked Loop** using **UMC 180 nm CMOS technology** in Cadence Virtuoso. The PLL consists of a **Phase Frequency Detector, Charge Pump, passive second-order loop filter, current-starved ring VCO, and divide-by-64 frequency divider**. The complete transistor-level design was integrated and simulated to generate an output frequency of approximately **1.02465 GHz**, demonstrating frequency multiplication and closed-loop synchronization.
